@@ -11,6 +11,4 @@ I am a third-year Ph.D. student in Computer Science school, Fudan University. My
 My research interests include  Secure Multi-party Computation, especially Private Set Intersection, and their application on privacy-preserving machine learning.
 
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
